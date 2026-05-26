@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MagicCursor (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MagicCursor (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
