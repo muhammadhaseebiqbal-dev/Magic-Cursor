@@ -34,7 +34,7 @@ Configure your Gemini API key and enable launching silently on Windows boot.
 
 ### Method 1: Download Standalone ZIP (GitHub Releases)
 1. Go to the [GitHub Releases Page](https://github.com/muhammadhaseebiqbal-dev/Magic-Cursor/releases).
-2. Download the latest release package: `MagicCursor_v0.0.3_win-x64.zip`.
+2. Download the latest release package: `MagicCursor_v0.0.1_win-x64.zip`.
 3. Extract it and run `MagicCursor.exe`. 
    *(Note: This package is fully self-contained and does not require any installers or runtime installs).*
 
@@ -94,31 +94,6 @@ We welcome open-source contributions! Whether you want to fix a bug, improve per
 3. **Commit** your changes: `git commit -m "Add some amazing feature"`.
 4. **Push** to the branch: `git push origin feature/amazing-feature`.
 5. Open a **Pull Request** for review.
-
-### 📬 Get in Touch / Collaborate
-If you want to join our core development team, discuss partnerships, or propose major integrations, feel free to reach out using this email template:
-
-```
-Subject: Collaboration Inquiry - Magic Cursor
-To: contact@yourdomain.com
-
-Hi Magic Cursor Team,
-
-I recently started using Magic Cursor and am absolutely impressed by the glassmorphic UI, global mouse-shake hook, and hybrid OCR/vision routing. I would love to contribute to the project!
-
-Specifically, I am interested in helping with:
-- [e.g. Adding custom hotkeys or actions]
-- [e.g. Optimizing the Windows hook performance]
-- [e.g. Store packaging and MSIX setup]
-
-Let me know how I can best get involved, or if you have a developer community channel (like Discord/Slack) I could join.
-
-Best regards,
-[Your Name]
-[Your GitHub Profile / Portfolio Link]
-```
-
----
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
